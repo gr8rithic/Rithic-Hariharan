@@ -1,0 +1,2000 @@
+1606295774690	geckodriver	INFO	Listening on 127.0.0.1:59301
+1606295774714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6eshzn"
+
+(firefox:5604): Gtk-WARNING **: 14:46:15.064: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5604): Gtk-WARNING **: 14:46:15.064: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5604): Gtk-WARNING **: 14:46:16.334: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5673): Gtk-WARNING **: 14:46:17.993: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5673): Gtk-WARNING **: 14:46:17.993: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5691): Gtk-WARNING **: 14:46:18.472: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5691): Gtk-WARNING **: 14:46:18.473: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5770): Gtk-WARNING **: 14:46:21.375: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5770): Gtk-WARNING **: 14:46:21.376: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606295782966	Marionette	INFO	Listening on port 36807
+1606295783285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606295788199	Marionette	INFO	Stopped listening on port 36807
+1606295810301	geckodriver	INFO	Listening on 127.0.0.1:46393
+1606295810313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePuqFqC"
+
+(firefox:5913): Gtk-WARNING **: 14:46:50.653: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5913): Gtk-WARNING **: 14:46:50.653: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5913): Gtk-WARNING **: 14:46:51.567: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6147): Gtk-WARNING **: 14:46:53.097: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6147): Gtk-WARNING **: 14:46:53.097: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6167): Gtk-WARNING **: 14:46:53.498: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6167): Gtk-WARNING **: 14:46:53.499: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:6243): Gtk-WARNING **: 14:46:55.878: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6243): Gtk-WARNING **: 14:46:55.879: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606295817381	Marionette	INFO	Listening on port 46591
+1606295817719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606295892154	Marionette	INFO	Stopped listening on port 46591
+1606295900014	geckodriver	INFO	Listening on 127.0.0.1:44289
+1606295900026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFOZ1Rj"
+
+(firefox:6398): Gtk-WARNING **: 14:48:20.341: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:6398): Gtk-WARNING **: 14:48:20.341: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:6398): Gtk-WARNING **: 14:48:21.323: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6641): Gtk-WARNING **: 14:48:22.762: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6641): Gtk-WARNING **: 14:48:22.763: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6661): Gtk-WARNING **: 14:48:23.278: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6661): Gtk-WARNING **: 14:48:23.280: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:6737): Gtk-WARNING **: 14:48:25.530: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6737): Gtk-WARNING **: 14:48:25.531: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606295906249	Marionette	INFO	Listening on port 43855
+1606295906506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606295936951	Marionette	INFO	Stopped listening on port 43855
+1606295979959	geckodriver	INFO	Listening on 127.0.0.1:58127
+1606295979970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLjoM6a"
+
+(firefox:6891): Gtk-WARNING **: 14:49:40.269: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:6891): Gtk-WARNING **: 14:49:40.269: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:6891): Gtk-WARNING **: 14:49:41.270: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6974): Gtk-WARNING **: 14:49:42.509: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6974): Gtk-WARNING **: 14:49:42.510: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7143): Gtk-WARNING **: 14:49:42.970: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7143): Gtk-WARNING **: 14:49:42.971: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7211): Gtk-WARNING **: 14:49:45.422: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7211): Gtk-WARNING **: 14:49:45.423: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606295986042	Marionette	INFO	Listening on port 35285
+1606295986218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+
+(/usr/lib64/firefox/firefox:7243): Gtk-WARNING **: 14:49:54.635: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7243): Gtk-WARNING **: 14:49:54.636: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606295999551	Marionette	INFO	Stopped listening on port 35285
+1606304547130	geckodriver	INFO	Listening on 127.0.0.1:40001
+1606304548132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewrr5B3"
+
+(firefox:2159): Gtk-WARNING **: 17:12:28.229: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2159): Gtk-WARNING **: 17:12:28.229: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2159): Gtk-WARNING **: 17:12:28.582: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2376): Gtk-WARNING **: 17:12:29.090: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2376): Gtk-WARNING **: 17:12:29.090: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2397): Gtk-WARNING **: 17:12:29.286: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2397): Gtk-WARNING **: 17:12:29.287: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2476): Gtk-WARNING **: 17:12:30.165: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2476): Gtk-WARNING **: 17:12:30.165: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304550477	Marionette	INFO	Listening on port 45557
+1606304550590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+
+(/usr/lib64/firefox/firefox:2505): Gtk-WARNING **: 17:12:46.672: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2505): Gtk-WARNING **: 17:12:46.672: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2611): Gtk-WARNING **: 17:12:48.787: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2611): Gtk-WARNING **: 17:12:48.792: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304570281	Marionette	INFO	Stopped listening on port 45557
+1606304574676	geckodriver	INFO	Listening on 127.0.0.1:53545
+1606304574681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2a72m8"
+
+(firefox:2688): Gtk-WARNING **: 17:12:54.775: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2688): Gtk-WARNING **: 17:12:54.775: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2688): Gtk-WARNING **: 17:12:55.109: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2921): Gtk-WARNING **: 17:12:55.605: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2921): Gtk-WARNING **: 17:12:55.606: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2939): Gtk-WARNING **: 17:12:55.772: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2939): Gtk-WARNING **: 17:12:55.772: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3019): Gtk-WARNING **: 17:12:56.599: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3019): Gtk-WARNING **: 17:12:56.599: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304576956	Marionette	INFO	Listening on port 38345
+1606304577032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+
+(/usr/lib64/firefox/firefox:3048): Gtk-WARNING **: 17:13:25.961: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3048): Gtk-WARNING **: 17:13:25.962: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304615417	geckodriver	INFO	Listening on 127.0.0.1:51273
+1606304615422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSrVfow"
+
+(firefox:3191): Gtk-WARNING **: 17:13:35.509: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3191): Gtk-WARNING **: 17:13:35.510: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3191): Gtk-WARNING **: 17:13:35.837: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3254): Gtk-WARNING **: 17:13:36.264: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3254): Gtk-WARNING **: 17:13:36.265: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3432): Gtk-WARNING **: 17:13:36.453: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3432): Gtk-WARNING **: 17:13:36.453: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3504): Gtk-WARNING **: 17:13:37.369: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3504): Gtk-WARNING **: 17:13:37.370: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304617732	Marionette	INFO	Listening on port 35049
+1606304617764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606304620964	Marionette	INFO	Stopped listening on port 38345
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+
+(/usr/lib64/firefox/firefox:3537): Gtk-WARNING **: 17:14:13.531: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3537): Gtk-WARNING **: 17:14:13.531: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3658): Gtk-WARNING **: 17:14:16.342: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3658): Gtk-WARNING **: 17:14:16.342: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304659290	Marionette	INFO	Stopped listening on port 35049
+1606304662079	geckodriver	INFO	Listening on 127.0.0.1:48749
+1606304662084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEWK8fQ"
+
+(firefox:3735): Gtk-WARNING **: 17:14:22.182: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3735): Gtk-WARNING **: 17:14:22.182: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3735): Gtk-WARNING **: 17:14:22.516: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3974): Gtk-WARNING **: 17:14:23.019: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3974): Gtk-WARNING **: 17:14:23.020: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3992): Gtk-WARNING **: 17:14:23.184: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3992): Gtk-WARNING **: 17:14:23.185: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4075): Gtk-WARNING **: 17:14:24.030: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4075): Gtk-WARNING **: 17:14:24.031: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304664317	Marionette	INFO	Listening on port 33479
+1606304664428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1606304671907	Marionette	INFO	Stopped listening on port 33479
+1606304805864	geckodriver	INFO	Listening on 127.0.0.1:59093
+1606304805869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuAz9DA"
+
+(firefox:4907): Gtk-WARNING **: 17:16:45.969: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4907): Gtk-WARNING **: 17:16:45.970: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4907): Gtk-WARNING **: 17:16:46.370: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5128): Gtk-WARNING **: 17:16:46.989: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5128): Gtk-WARNING **: 17:16:46.992: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5146): Gtk-WARNING **: 17:16:47.157: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5146): Gtk-WARNING **: 17:16:47.158: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5229): Gtk-WARNING **: 17:16:48.296: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5229): Gtk-WARNING **: 17:16:48.296: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606304808749	Marionette	INFO	Listening on port 44585
+1606304808843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1606304829871	Marionette	INFO	Stopped listening on port 44585
+1606305000923	geckodriver	INFO	Listening on 127.0.0.1:50999
+1606305000928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen16Iqu"
+
+(firefox:5760): Gtk-WARNING **: 17:20:01.019: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5760): Gtk-WARNING **: 17:20:01.020: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5760): Gtk-WARNING **: 17:20:01.358: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5966): Gtk-WARNING **: 17:20:01.851: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5966): Gtk-WARNING **: 17:20:01.852: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5984): Gtk-WARNING **: 17:20:02.041: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5984): Gtk-WARNING **: 17:20:02.041: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:6068): Gtk-WARNING **: 17:20:02.946: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6068): Gtk-WARNING **: 17:20:02.947: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606305003234	Marionette	INFO	Listening on port 42767
+1606305003285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.79cf3884c4bdafb8f9ef.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.79cf3884c4bdafb8f9ef.js, line 1: unreachable code after return statement
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606305013850	Marionette	INFO	Stopped listening on port 42767
+1606307249864	geckodriver	INFO	Listening on 127.0.0.1:54177
+1606307250870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileucQDgl"
+
+(firefox:2469): Gtk-WARNING **: 17:57:30.981: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2469): Gtk-WARNING **: 17:57:30.982: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2469): Gtk-WARNING **: 17:57:31.356: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2709): Gtk-WARNING **: 17:57:31.882: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2709): Gtk-WARNING **: 17:57:31.883: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2727): Gtk-WARNING **: 17:57:32.070: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2727): Gtk-WARNING **: 17:57:32.070: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2806): Gtk-WARNING **: 17:57:32.912: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2806): Gtk-WARNING **: 17:57:32.913: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307253222	Marionette	INFO	Listening on port 39641
+1606307253331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606307274594	Marionette	INFO	Stopped listening on port 39641
+1606307282726	geckodriver	INFO	Listening on 127.0.0.1:56313
+1606307282731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevcb3no"
+
+(firefox:2961): Gtk-WARNING **: 17:58:02.832: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2961): Gtk-WARNING **: 17:58:02.832: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2961): Gtk-WARNING **: 17:58:03.167: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3185): Gtk-WARNING **: 17:58:03.665: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3185): Gtk-WARNING **: 17:58:03.666: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3203): Gtk-WARNING **: 17:58:03.863: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3203): Gtk-WARNING **: 17:58:03.863: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3283): Gtk-WARNING **: 17:58:04.689: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3283): Gtk-WARNING **: 17:58:04.689: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307285053	Marionette	INFO	Listening on port 41201
+1606307285177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606307304158	Marionette	INFO	Stopped listening on port 41201
+1606307308399	geckodriver	INFO	Listening on 127.0.0.1:44915
+1606307308403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezCn41e"
+
+(firefox:3420): Gtk-WARNING **: 17:58:28.504: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3420): Gtk-WARNING **: 17:58:28.504: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3420): Gtk-WARNING **: 17:58:28.843: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3660): Gtk-WARNING **: 17:58:29.370: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3660): Gtk-WARNING **: 17:58:29.371: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3678): Gtk-WARNING **: 17:58:29.534: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3678): Gtk-WARNING **: 17:58:29.535: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3758): Gtk-WARNING **: 17:58:30.428: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3758): Gtk-WARNING **: 17:58:30.428: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307310773	Marionette	INFO	Listening on port 43115
+1606307310878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606307338867	Marionette	INFO	Stopped listening on port 43115
+1606307348027	geckodriver	INFO	Listening on 127.0.0.1:37913
+1606307348032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiMB9Pa"
+
+(firefox:3926): Gtk-WARNING **: 17:59:08.131: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3926): Gtk-WARNING **: 17:59:08.131: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3926): Gtk-WARNING **: 17:59:08.475: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:4159): Gtk-WARNING **: 17:59:08.989: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4159): Gtk-WARNING **: 17:59:08.989: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4177): Gtk-WARNING **: 17:59:09.152: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4177): Gtk-WARNING **: 17:59:09.152: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4260): Gtk-WARNING **: 17:59:09.970: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4260): Gtk-WARNING **: 17:59:09.971: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307350219	Marionette	INFO	Listening on port 46053
+1606307350274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606307495654	Marionette	INFO	Stopped listening on port 46053
+1606307501775	geckodriver	INFO	Listening on 127.0.0.1:60259
+1606307501780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF2nXP3"
+
+(firefox:4467): Gtk-WARNING **: 18:01:41.905: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4467): Gtk-WARNING **: 18:01:41.906: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4467): Gtk-WARNING **: 18:01:42.257: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:4700): Gtk-WARNING **: 18:01:42.788: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4700): Gtk-WARNING **: 18:01:42.789: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4718): Gtk-WARNING **: 18:01:42.941: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4718): Gtk-WARNING **: 18:01:42.942: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4794): Gtk-WARNING **: 18:01:43.756: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4794): Gtk-WARNING **: 18:01:43.757: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307504003	Marionette	INFO	Listening on port 35401
+1606307504033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606307568554	Marionette	INFO	Stopped listening on port 35401
+1606307587107	geckodriver	INFO	Listening on 127.0.0.1:55077
+1606307587112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezxC3CU"
+
+(firefox:4979): Gtk-WARNING **: 18:03:07.214: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4979): Gtk-WARNING **: 18:03:07.214: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4979): Gtk-WARNING **: 18:03:07.561: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5207): Gtk-WARNING **: 18:03:08.074: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5207): Gtk-WARNING **: 18:03:08.074: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5225): Gtk-WARNING **: 18:03:08.235: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5225): Gtk-WARNING **: 18:03:08.236: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5301): Gtk-WARNING **: 18:03:09.128: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5301): Gtk-WARNING **: 18:03:09.128: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307589441	Marionette	INFO	Listening on port 45483
+1606307589470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+
+(/usr/lib64/firefox/firefox:5332): Gtk-WARNING **: 18:03:33.536: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5332): Gtk-WARNING **: 18:03:33.537: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307616958	Marionette	INFO	Stopped listening on port 45483
+1606307827205	geckodriver	INFO	Listening on 127.0.0.1:54167
+1606307827210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYK76cg"
+
+(firefox:5948): Gtk-WARNING **: 18:07:07.304: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5948): Gtk-WARNING **: 18:07:07.304: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5948): Gtk-WARNING **: 18:07:07.650: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6148): Gtk-WARNING **: 18:07:08.264: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6148): Gtk-WARNING **: 18:07:08.266: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6166): Gtk-WARNING **: 18:07:08.478: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6166): Gtk-WARNING **: 18:07:08.478: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:6244): Gtk-WARNING **: 18:07:09.307: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6244): Gtk-WARNING **: 18:07:09.307: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307829675	Marionette	INFO	Listening on port 45381
+1606307829774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606307859766	Marionette	INFO	Stopped listening on port 45381
+1606307886823	geckodriver	INFO	Listening on 127.0.0.1:52135
+1606307886828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWHK7hY"
+
+(firefox:6435): Gtk-WARNING **: 18:08:06.943: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:6435): Gtk-WARNING **: 18:08:06.943: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:6435): Gtk-WARNING **: 18:08:07.351: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6614): Gtk-WARNING **: 18:08:07.964: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6614): Gtk-WARNING **: 18:08:07.965: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6632): Gtk-WARNING **: 18:08:08.120: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6632): Gtk-WARNING **: 18:08:08.121: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:6703): Gtk-WARNING **: 18:08:09.026: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6703): Gtk-WARNING **: 18:08:09.027: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307889204	Marionette	INFO	Listening on port 42239
+1606307889281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606307911812	Marionette	INFO	Stopped listening on port 42239
+1606307946781	geckodriver	INFO	Listening on 127.0.0.1:56393
+1606307946785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNGjimr"
+
+(firefox:6951): Gtk-WARNING **: 18:09:06.918: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:6951): Gtk-WARNING **: 18:09:06.918: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:6951): Gtk-WARNING **: 18:09:07.261: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:7034): Gtk-WARNING **: 18:09:07.688: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7034): Gtk-WARNING **: 18:09:07.689: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7194): Gtk-WARNING **: 18:09:07.881: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7194): Gtk-WARNING **: 18:09:07.882: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7267): Gtk-WARNING **: 18:09:08.796: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7267): Gtk-WARNING **: 18:09:08.796: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606307948874	Marionette	INFO	Listening on port 42663
+1606307948937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+
+(/usr/lib64/firefox/firefox:7298): Gtk-WARNING **: 18:10:12.956: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7298): Gtk-WARNING **: 18:10:12.956: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7440): Gtk-WARNING **: 18:10:42.029: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7440): Gtk-WARNING **: 18:10:42.030: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1606308114497	geckodriver	INFO	Listening on 127.0.0.1:56343
+1606308114502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8QfMKo"
+
+(firefox:7583): Gtk-WARNING **: 18:11:54.592: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:7583): Gtk-WARNING **: 18:11:54.592: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:7583): Gtk-WARNING **: 18:11:54.929: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:7648): Gtk-WARNING **: 18:11:55.355: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7648): Gtk-WARNING **: 18:11:55.355: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7844): Gtk-WARNING **: 18:11:55.560: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7844): Gtk-WARNING **: 18:11:55.561: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7911): Gtk-WARNING **: 18:11:56.439: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7911): Gtk-WARNING **: 18:11:56.440: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606308116757	Marionette	INFO	Listening on port 39879
+1606308116842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1606308135797	Marionette	INFO	Stopped listening on port 39879
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:454:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+(/usr/lib64/firefox/firefox:7503): Gtk-WARNING **: 18:14:35.604: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7503): Gtk-WARNING **: 18:14:35.605: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1606308350544	geckodriver	INFO	Listening on 127.0.0.1:45113
+1606308350548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3xVqVs"
+
+(firefox:8212): Gtk-WARNING **: 18:15:50.641: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:8212): Gtk-WARNING **: 18:15:50.641: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:8212): Gtk-WARNING **: 18:15:50.991: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:8280): Gtk-WARNING **: 18:15:51.442: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:8280): Gtk-WARNING **: 18:15:51.442: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:8472): Gtk-WARNING **: 18:15:51.640: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:8472): Gtk-WARNING **: 18:15:51.640: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:8543): Gtk-WARNING **: 18:15:52.591: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:8543): Gtk-WARNING **: 18:15:52.592: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606308352836	Marionette	INFO	Listening on port 42985
+1606308352891	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606308355646	Marionette	INFO	Stopped listening on port 42663
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1606308402246	Marionette	INFO	Stopped listening on port 42985
+1606310715092	geckodriver	INFO	Listening on 127.0.0.1:59199
+1606310716099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLpk9O5"
+
+(firefox:2196): Gtk-WARNING **: 18:55:16.406: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2196): Gtk-WARNING **: 18:55:16.406: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2196): Gtk-WARNING **: 18:55:17.628: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2435): Gtk-WARNING **: 18:55:20.000: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2435): Gtk-WARNING **: 18:55:20.001: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2456): Gtk-WARNING **: 18:55:20.639: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2456): Gtk-WARNING **: 18:55:20.642: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2533): Gtk-WARNING **: 18:55:23.705: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2533): Gtk-WARNING **: 18:55:23.707: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606310725407	Marionette	INFO	Listening on port 38981
+1606310725720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606310757408	Marionette	INFO	Stopped listening on port 38981
+1606310871662	geckodriver	INFO	Listening on 127.0.0.1:56933
+1606310871676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIFYSpF"
+
+(firefox:2710): Gtk-WARNING **: 18:57:52.050: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2710): Gtk-WARNING **: 18:57:52.050: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2710): Gtk-WARNING **: 18:57:53.108: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2860): Gtk-WARNING **: 18:57:54.809: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2860): Gtk-WARNING **: 18:57:54.810: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2878): Gtk-WARNING **: 18:57:55.147: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2878): Gtk-WARNING **: 18:57:55.147: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2955): Gtk-WARNING **: 18:57:57.522: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2955): Gtk-WARNING **: 18:57:57.523: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606310878639	Marionette	INFO	Listening on port 38069
+1606310879200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606310918597	Marionette	INFO	Stopped listening on port 38069
+1606311077581	geckodriver	INFO	Listening on 127.0.0.1:37607
+1606311077592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9rrcf7"
+
+(firefox:3133): Gtk-WARNING **: 19:01:17.962: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3133): Gtk-WARNING **: 19:01:17.963: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3133): Gtk-WARNING **: 19:01:19.163: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3356): Gtk-WARNING **: 19:01:20.794: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3356): Gtk-WARNING **: 19:01:20.795: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3378): Gtk-WARNING **: 19:01:21.298: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3378): Gtk-WARNING **: 19:01:21.299: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3459): Gtk-WARNING **: 19:01:23.607: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3459): Gtk-WARNING **: 19:01:23.608: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606311084728	Marionette	INFO	Listening on port 39157
+1606311084922	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606311158263	Marionette	INFO	Stopped listening on port 39157
+1606311164622	geckodriver	INFO	Listening on 127.0.0.1:57249
+1606311164634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUopvQA"
+
+(firefox:3671): Gtk-WARNING **: 19:02:45.041: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3671): Gtk-WARNING **: 19:02:45.041: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3671): Gtk-WARNING **: 19:02:46.124: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3894): Gtk-WARNING **: 19:02:47.758: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3894): Gtk-WARNING **: 19:02:47.759: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3917): Gtk-WARNING **: 19:02:48.280: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3917): Gtk-WARNING **: 19:02:48.282: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3998): Gtk-WARNING **: 19:02:50.764: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3998): Gtk-WARNING **: 19:02:50.765: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606311172168	Marionette	INFO	Listening on port 41885
+1606311172295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606311277817	Marionette	INFO	Stopped listening on port 41885
+1606311343792	geckodriver	INFO	Listening on 127.0.0.1:38155
+1606311343803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqdwTFq"
+
+(firefox:4190): Gtk-WARNING **: 19:05:44.126: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4190): Gtk-WARNING **: 19:05:44.126: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4190): Gtk-WARNING **: 19:05:45.169: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:4443): Gtk-WARNING **: 19:05:46.908: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4443): Gtk-WARNING **: 19:05:46.909: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4461): Gtk-WARNING **: 19:05:47.351: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4461): Gtk-WARNING **: 19:05:47.352: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4545): Gtk-WARNING **: 19:05:50.296: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4545): Gtk-WARNING **: 19:05:50.297: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606311351930	Marionette	INFO	Listening on port 42745
+1606311352077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+console.error: (new Error("Connection closed, pending request to server0.conn0.child3/domwalker24, type querySelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:280:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nquerySelector@resource://devtools/client/fronts/walker.js:152:34\n_getDefaultNodeForSelection/defaultNodeSelectors<@resource://devtools/client/inspector/inspector.js:464:20\n_getDefaultNodeForSelection@resource://devtools/client/inspector/inspector.js:471:26\n", "resource://devtools/shared/protocol/Front.js", 101))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 101: Error: Connection closed, pending request to root, type protocolDescription failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:280:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getActorDescription@resource://devtools/client/fronts/targets/target-mixin.js:257:54
+actorHasMethod@resource://devtools/client/fronts/targets/target-mixin.js:288:19
+_initSimulationFeatures@resource://devtools/client/inspector/rules/rules.js:471:68
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606311591330	Marionette	INFO	Stopped listening on port 42745
+1606311602973	geckodriver	INFO	Listening on 127.0.0.1:35553
+1606311602984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5EW8Bd"
+
+(firefox:4747): Gtk-WARNING **: 19:10:03.460: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4747): Gtk-WARNING **: 19:10:03.461: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4747): Gtk-WARNING **: 19:10:04.523: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:4961): Gtk-WARNING **: 19:10:06.581: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4961): Gtk-WARNING **: 19:10:06.582: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4982): Gtk-WARNING **: 19:10:07.070: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4982): Gtk-WARNING **: 19:10:07.071: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5060): Gtk-WARNING **: 19:10:11.443: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5060): Gtk-WARNING **: 19:10:11.444: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606311612877	Marionette	INFO	Listening on port 43951
+1606311612994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:2082:28
+
+1606311626582	Marionette	INFO	Stopped listening on port 43951
+1606311640086	geckodriver	INFO	Listening on 127.0.0.1:40987
+1606311640098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCzJg8g"
+
+(firefox:5220): Gtk-WARNING **: 19:10:40.398: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5220): Gtk-WARNING **: 19:10:40.399: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5220): Gtk-WARNING **: 19:10:41.597: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5463): Gtk-WARNING **: 19:10:43.323: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5463): Gtk-WARNING **: 19:10:43.324: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5483): Gtk-WARNING **: 19:10:43.801: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5483): Gtk-WARNING **: 19:10:43.802: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5556): Gtk-WARNING **: 19:10:47.073: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5556): Gtk-WARNING **: 19:10:47.074: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606311648451	Marionette	INFO	Listening on port 38291
+1606311648582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+1606312374112	geckodriver	INFO	Listening on 127.0.0.1:52887
+1606312374124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEu0L8V"
+
+(firefox:5803): Gtk-WARNING **: 19:22:54.392: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5803): Gtk-WARNING **: 19:22:54.393: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5803): Gtk-WARNING **: 19:22:55.383: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6016): Gtk-WARNING **: 19:22:56.943: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6016): Gtk-WARNING **: 19:22:56.943: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6036): Gtk-WARNING **: 19:22:57.297: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6036): Gtk-WARNING **: 19:22:57.299: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:6117): Gtk-WARNING **: 19:22:59.822: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6117): Gtk-WARNING **: 19:22:59.823: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606312380995	Marionette	INFO	Listening on port 36609
+1606312381100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606315053457	Marionette	INFO	Stopped listening on port 36609
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606315057426	Marionette	INFO	Stopped listening on port 38291
+1606315059907	geckodriver	INFO	Listening on 127.0.0.1:53369
+1606315059919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez4a2jC"
+
+(firefox:6665): Gtk-WARNING **: 20:07:40.328: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:6665): Gtk-WARNING **: 20:07:40.329: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:6665): Gtk-WARNING **: 20:07:41.432: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6915): Gtk-WARNING **: 20:07:43.090: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6915): Gtk-WARNING **: 20:07:43.091: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6936): Gtk-WARNING **: 20:07:43.655: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6936): Gtk-WARNING **: 20:07:43.657: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7010): Gtk-WARNING **: 20:07:46.322: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7010): Gtk-WARNING **: 20:07:46.323: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606315067203	Marionette	INFO	Listening on port 38953
+1606315067353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606315109492	geckodriver	INFO	Listening on 127.0.0.1:45119
+1606315109502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNixyvn"
+
+(firefox:7169): Gtk-WARNING **: 20:08:29.772: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:7169): Gtk-WARNING **: 20:08:29.772: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:7169): Gtk-WARNING **: 20:08:30.759: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:7384): Gtk-WARNING **: 20:08:32.201: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7384): Gtk-WARNING **: 20:08:32.202: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7415): Gtk-WARNING **: 20:08:32.669: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7415): Gtk-WARNING **: 20:08:32.670: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:7482): Gtk-WARNING **: 20:08:35.128: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7482): Gtk-WARNING **: 20:08:35.129: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606315116706	Marionette	INFO	Listening on port 35415
+1606315116903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+
+(/usr/lib64/firefox/firefox:7514): Gtk-WARNING **: 20:09:07.048: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7514): Gtk-WARNING **: 20:09:07.050: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7609): Gtk-WARNING **: 20:09:10.311: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:7609): Gtk-WARNING **: 20:09:10.314: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606315155551	Marionette	INFO	Stopped listening on port 35415
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe34a66b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d405400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d405400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d405400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d405400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d405400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c3e8400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d5db400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d5db400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d5db400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33d5db400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 6915, MediaDecoderStateMachine #1] WARNING: Decoder=7fe33c80d800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builddir/build/BUILD/firefox-83.0/dom/media/MediaDecoderStateMachine.cpp:3471
+1606315439286	Marionette	INFO	Stopped listening on port 38953
+1606323475907	geckodriver	INFO	Listening on 127.0.0.1:54189
+1606323476919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRIKkat"
+
+(firefox:10880): Gtk-WARNING **: 22:27:57.315: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:10880): Gtk-WARNING **: 22:27:57.316: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:10880): Gtk-WARNING **: 22:27:58.538: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:11090): Gtk-WARNING **: 22:28:00.136: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:11090): Gtk-WARNING **: 22:28:00.137: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:11108): Gtk-WARNING **: 22:28:00.639: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:11108): Gtk-WARNING **: 22:28:00.640: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:11191): Gtk-WARNING **: 22:28:03.277: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:11191): Gtk-WARNING **: 22:28:03.278: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606323484287	Marionette	INFO	Listening on port 43451
+1606323484408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: , line 0: uncaught exception: FAILURE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+(/usr/lib64/firefox/firefox:11222): Gtk-WARNING **: 22:28:38.397: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:11222): Gtk-WARNING **: 22:28:38.398: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606323521124	Marionette	INFO	Stopped listening on port 43451
+1606377473656	geckodriver	INFO	Listening on 127.0.0.1:60599
+1606377474653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNLRC88"
+
+(firefox:1604): Gtk-WARNING **: 13:27:55.124: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:1604): Gtk-WARNING **: 13:27:55.124: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:1604): Gtk-WARNING **: 13:27:55.749: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:1839): Gtk-WARNING **: 13:27:56.657: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1839): Gtk-WARNING **: 13:27:56.657: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1864): Gtk-WARNING **: 13:27:56.900: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1864): Gtk-WARNING **: 13:27:56.901: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:1939): Gtk-WARNING **: 13:27:58.272: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1939): Gtk-WARNING **: 13:27:58.272: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606377478879	Marionette	INFO	Listening on port 43431
+1606377478929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606377567147	Marionette	INFO	Stopped listening on port 43431
+1606377629745	geckodriver	INFO	Listening on 127.0.0.1:41659
+1606377629749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQxY65S"
+
+(firefox:2139): Gtk-WARNING **: 13:30:29.849: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2139): Gtk-WARNING **: 13:30:29.849: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2139): Gtk-WARNING **: 13:30:30.188: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2374): Gtk-WARNING **: 13:30:30.700: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2374): Gtk-WARNING **: 13:30:30.701: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2392): Gtk-WARNING **: 13:30:30.868: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2392): Gtk-WARNING **: 13:30:30.869: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2477): Gtk-WARNING **: 13:30:31.774: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2477): Gtk-WARNING **: 13:30:31.774: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606377632197	Marionette	INFO	Listening on port 39395
+1606377632317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606377655101	Marionette	INFO	Stopped listening on port 39395
+1606377679748	geckodriver	INFO	Listening on 127.0.0.1:36861
+1606377679752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0R1KDa"
+
+(firefox:2642): Gtk-WARNING **: 13:31:19.847: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2642): Gtk-WARNING **: 13:31:19.847: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2642): Gtk-WARNING **: 13:31:20.175: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2881): Gtk-WARNING **: 13:31:20.692: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2881): Gtk-WARNING **: 13:31:20.692: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2899): Gtk-WARNING **: 13:31:20.857: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2899): Gtk-WARNING **: 13:31:20.858: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2976): Gtk-WARNING **: 13:31:21.656: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2976): Gtk-WARNING **: 13:31:21.657: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606377681998	Marionette	INFO	Listening on port 43931
+1606377682089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606377705286	Marionette	INFO	Stopped listening on port 43931
+1606388733706	geckodriver	INFO	Listening on 127.0.0.1:58315
+1606388734712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8Hua4i"
+
+(firefox:1680): Gtk-WARNING **: 16:35:35.078: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:1680): Gtk-WARNING **: 16:35:35.078: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:1680): Gtk-WARNING **: 16:35:35.755: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:1937): Gtk-WARNING **: 16:35:36.574: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1937): Gtk-WARNING **: 16:35:36.574: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1963): Gtk-WARNING **: 16:35:36.831: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1963): Gtk-WARNING **: 16:35:36.832: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2050): Gtk-WARNING **: 16:35:38.146: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2050): Gtk-WARNING **: 16:35:38.146: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606388738698	Marionette	INFO	Listening on port 39685
+1606388738772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606388778007	Marionette	INFO	Stopped listening on port 39685
+1606388811181	geckodriver	INFO	Listening on 127.0.0.1:33609
+1606388811186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6sc2Eu"
+
+(firefox:2212): Gtk-WARNING **: 16:36:51.289: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2212): Gtk-WARNING **: 16:36:51.289: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2212): Gtk-WARNING **: 16:36:51.620: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2442): Gtk-WARNING **: 16:36:52.112: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2442): Gtk-WARNING **: 16:36:52.113: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2460): Gtk-WARNING **: 16:36:52.263: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2460): Gtk-WARNING **: 16:36:52.264: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2540): Gtk-WARNING **: 16:36:53.103: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2540): Gtk-WARNING **: 16:36:53.103: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606388813447	Marionette	INFO	Listening on port 33581
+1606388813560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606388855582	Marionette	INFO	Stopped listening on port 33581
+1606389734985	geckodriver	INFO	Listening on 127.0.0.1:39967
+1606389734992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileytyl3d"
+
+(firefox:4916): Gtk-WARNING **: 16:52:15.270: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4916): Gtk-WARNING **: 16:52:15.270: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4916): Gtk-WARNING **: 16:52:15.750: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5109): Gtk-WARNING **: 16:52:16.432: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5109): Gtk-WARNING **: 16:52:16.433: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5127): Gtk-WARNING **: 16:52:16.677: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5127): Gtk-WARNING **: 16:52:16.678: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5211): Gtk-WARNING **: 16:52:18.097: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5211): Gtk-WARNING **: 16:52:18.098: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606389738729	Marionette	INFO	Listening on port 35307
+1606389738858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+
+(/usr/lib64/firefox/firefox:5244): Gtk-WARNING **: 16:53:38.234: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5244): Gtk-WARNING **: 16:53:38.235: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606389860961	Marionette	INFO	Stopped listening on port 35307
+1606390066267	geckodriver	INFO	Listening on 127.0.0.1:59501
+1606390066272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePTH7Pd"
+
+(firefox:6586): Gtk-WARNING **: 16:57:46.474: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:6586): Gtk-WARNING **: 16:57:46.474: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:6586): Gtk-WARNING **: 16:57:47.266: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:6694): Gtk-WARNING **: 16:57:48.536: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6694): Gtk-WARNING **: 16:57:48.536: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6714): Gtk-WARNING **: 16:57:48.821: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6714): Gtk-WARNING **: 16:57:48.825: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:6795): Gtk-WARNING **: 16:57:50.392: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:6795): Gtk-WARNING **: 16:57:50.392: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606390071061	Marionette	INFO	Listening on port 40491
+1606390071155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606390142200	Marionette	INFO	Stopped listening on port 40491
+1606401330745	geckodriver	INFO	Listening on 127.0.0.1:47533
+1606401331764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevnvRJ2"
+
+(firefox:1734): Gtk-WARNING **: 20:05:33.054: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:1734): Gtk-WARNING **: 20:05:33.055: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:1734): Gtk-WARNING **: 20:05:34.967: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:1979): Gtk-WARNING **: 20:05:37.621: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1979): Gtk-WARNING **: 20:05:37.622: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2006): Gtk-WARNING **: 20:05:38.254: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2006): Gtk-WARNING **: 20:05:38.256: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2087): Gtk-WARNING **: 20:05:42.217: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2087): Gtk-WARNING **: 20:05:42.218: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401343192	Marionette	INFO	Listening on port 39273
+1606401343345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401368895	Marionette	INFO	Stopped listening on port 39273
+1606401387084	geckodriver	INFO	Listening on 127.0.0.1:35565
+1606401387095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilequokDS"
+
+(firefox:2250): Gtk-WARNING **: 20:06:27.415: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2250): Gtk-WARNING **: 20:06:27.415: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2250): Gtk-WARNING **: 20:06:28.319: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2489): Gtk-WARNING **: 20:06:29.685: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2489): Gtk-WARNING **: 20:06:29.686: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2509): Gtk-WARNING **: 20:06:30.165: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2509): Gtk-WARNING **: 20:06:30.166: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2584): Gtk-WARNING **: 20:06:32.568: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2584): Gtk-WARNING **: 20:06:32.569: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401392954	Marionette	INFO	Listening on port 37257
+1606401393050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401400033	Marionette	INFO	Stopped listening on port 37257
+1606401543341	geckodriver	INFO	Listening on 127.0.0.1:55359
+1606401543352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelNKw8Q"
+
+(firefox:2732): Gtk-WARNING **: 20:09:03.617: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2732): Gtk-WARNING **: 20:09:03.617: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2732): Gtk-WARNING **: 20:09:04.532: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2963): Gtk-WARNING **: 20:09:05.952: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2963): Gtk-WARNING **: 20:09:05.953: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2983): Gtk-WARNING **: 20:09:06.427: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2983): Gtk-WARNING **: 20:09:06.428: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3068): Gtk-WARNING **: 20:09:08.876: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3068): Gtk-WARNING **: 20:09:08.880: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401550046	Marionette	INFO	Listening on port 33725
+1606401550416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401583936	Marionette	INFO	Stopped listening on port 33725
+1606401601531	geckodriver	INFO	Listening on 127.0.0.1:54065
+1606401601542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRHL29S"
+
+(firefox:3254): Gtk-WARNING **: 20:10:01.812: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3254): Gtk-WARNING **: 20:10:01.812: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3254): Gtk-WARNING **: 20:10:02.687: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3491): Gtk-WARNING **: 20:10:04.160: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3491): Gtk-WARNING **: 20:10:04.161: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3511): Gtk-WARNING **: 20:10:04.536: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3511): Gtk-WARNING **: 20:10:04.539: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3589): Gtk-WARNING **: 20:10:06.891: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3589): Gtk-WARNING **: 20:10:06.892: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401608110	Marionette	INFO	Listening on port 41785
+1606401608200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401623461	Marionette	INFO	Stopped listening on port 41785
+1606401625990	geckodriver	INFO	Listening on 127.0.0.1:40219
+1606401626002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3KU1D1"
+
+(firefox:3720): Gtk-WARNING **: 20:10:26.286: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3720): Gtk-WARNING **: 20:10:26.286: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3720): Gtk-WARNING **: 20:10:27.250: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3959): Gtk-WARNING **: 20:10:28.678: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3959): Gtk-WARNING **: 20:10:28.679: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3979): Gtk-WARNING **: 20:10:29.205: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3979): Gtk-WARNING **: 20:10:29.207: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4055): Gtk-WARNING **: 20:10:31.503: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4055): Gtk-WARNING **: 20:10:31.504: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401632700	Marionette	INFO	Listening on port 37241
+1606401632955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401638627	Marionette	INFO	Stopped listening on port 37241
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1606401641742	geckodriver	INFO	Listening on 127.0.0.1:37475
+1606401641753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoDkFDZ"
+
+(firefox:4164): Gtk-WARNING **: 20:10:42.021: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4164): Gtk-WARNING **: 20:10:42.021: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4164): Gtk-WARNING **: 20:10:42.938: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:4397): Gtk-WARNING **: 20:10:44.421: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4397): Gtk-WARNING **: 20:10:44.422: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4417): Gtk-WARNING **: 20:10:44.859: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4417): Gtk-WARNING **: 20:10:44.862: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4495): Gtk-WARNING **: 20:10:47.283: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4495): Gtk-WARNING **: 20:10:47.284: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401648768	Marionette	INFO	Listening on port 41331
+1606401649049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401654222	Marionette	INFO	Stopped listening on port 41331
+1606401667467	geckodriver	INFO	Listening on 127.0.0.1:56177
+1606401667477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRRB9oa"
+
+(firefox:4610): Gtk-WARNING **: 20:11:07.751: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4610): Gtk-WARNING **: 20:11:07.751: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4610): Gtk-WARNING **: 20:11:08.598: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:4856): Gtk-WARNING **: 20:11:09.969: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4856): Gtk-WARNING **: 20:11:09.970: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4876): Gtk-WARNING **: 20:11:10.484: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4876): Gtk-WARNING **: 20:11:10.484: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4950): Gtk-WARNING **: 20:11:12.694: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4950): Gtk-WARNING **: 20:11:12.695: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401673818	Marionette	INFO	Listening on port 34865
+1606401673945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401750115	Marionette	INFO	Stopped listening on port 34865
+1606401755861	geckodriver	INFO	Listening on 127.0.0.1:49425
+1606401755872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNlSQjJ"
+
+(firefox:5108): Gtk-WARNING **: 20:12:36.147: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5108): Gtk-WARNING **: 20:12:36.147: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5108): Gtk-WARNING **: 20:12:37.115: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5345): Gtk-WARNING **: 20:12:38.625: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5345): Gtk-WARNING **: 20:12:38.626: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5365): Gtk-WARNING **: 20:12:39.172: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5365): Gtk-WARNING **: 20:12:39.173: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5446): Gtk-WARNING **: 20:12:41.400: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5446): Gtk-WARNING **: 20:12:41.401: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606401762808	Marionette	INFO	Listening on port 35373
+1606401763093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606401776746	Marionette	INFO	Stopped listening on port 35373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606452794636	geckodriver	INFO	Listening on 127.0.0.1:56163
+1606452795635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletpuJJd"
+
+(firefox:2292): Gtk-WARNING **: 10:23:15.721: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2292): Gtk-WARNING **: 10:23:15.721: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2292): Gtk-WARNING **: 10:23:16.091: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2521): Gtk-WARNING **: 10:23:16.869: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2521): Gtk-WARNING **: 10:23:16.869: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2546): Gtk-WARNING **: 10:23:17.088: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2546): Gtk-WARNING **: 10:23:17.090: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2618): Gtk-WARNING **: 10:23:18.393: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2618): Gtk-WARNING **: 10:23:18.393: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606452798883	Marionette	INFO	Listening on port 42823
+1606452798996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606452812001	Marionette	INFO	Stopped listening on port 42823
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606452848640	geckodriver	INFO	Listening on 127.0.0.1:58885
+1606452848644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekxt8jJ"
+
+(firefox:2907): Gtk-WARNING **: 10:24:08.750: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2907): Gtk-WARNING **: 10:24:08.750: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2907): Gtk-WARNING **: 10:24:09.086: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3156): Gtk-WARNING **: 10:24:09.605: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3156): Gtk-WARNING **: 10:24:09.605: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3174): Gtk-WARNING **: 10:24:09.792: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3174): Gtk-WARNING **: 10:24:09.794: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3256): Gtk-WARNING **: 10:24:10.624: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3256): Gtk-WARNING **: 10:24:10.624: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606452851015	Marionette	INFO	Listening on port 44101
+1606452851125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606452868519	Marionette	INFO	Stopped listening on port 44101
+1606452891895	geckodriver	INFO	Listening on 127.0.0.1:38951
+1606452891899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9NJ1qW"
+
+(firefox:3479): Gtk-WARNING **: 10:24:52.001: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:3479): Gtk-WARNING **: 10:24:52.001: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:3479): Gtk-WARNING **: 10:24:52.336: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:3719): Gtk-WARNING **: 10:24:52.856: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3719): Gtk-WARNING **: 10:24:52.857: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3737): Gtk-WARNING **: 10:24:53.049: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3737): Gtk-WARNING **: 10:24:53.050: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3818): Gtk-WARNING **: 10:24:53.875: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3818): Gtk-WARNING **: 10:24:53.876: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606452894131	Marionette	INFO	Listening on port 33585
+1606452894241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606452907854	Marionette	INFO	Stopped listening on port 33585
+1606459293827	geckodriver	INFO	Listening on 127.0.0.1:48541
+1606459294831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNpZkSq"
+
+(firefox:1611): Gtk-WARNING **: 12:11:35.353: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:1611): Gtk-WARNING **: 12:11:35.353: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:1611): Gtk-WARNING **: 12:11:36.203: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:1876): Gtk-WARNING **: 12:11:37.410: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1876): Gtk-WARNING **: 12:11:37.410: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1902): Gtk-WARNING **: 12:11:37.775: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1902): Gtk-WARNING **: 12:11:37.776: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:1978): Gtk-WARNING **: 12:11:39.701: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1978): Gtk-WARNING **: 12:11:39.702: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606459300529	Marionette	INFO	Listening on port 43561
+1606459300615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606459335479	Marionette	INFO	Stopped listening on port 43561
+1606459338980	geckodriver	INFO	Listening on 127.0.0.1:52219
+1606459338990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexzBFSp"
+
+(firefox:2138): Gtk-WARNING **: 12:12:19.102: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2138): Gtk-WARNING **: 12:12:19.102: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2138): Gtk-WARNING **: 12:12:19.483: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2379): Gtk-WARNING **: 12:12:20.124: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2379): Gtk-WARNING **: 12:12:20.124: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2408): Gtk-WARNING **: 12:12:20.305: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2408): Gtk-WARNING **: 12:12:20.305: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2473): Gtk-WARNING **: 12:12:22.135: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2473): Gtk-WARNING **: 12:12:22.137: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606459342990	Marionette	INFO	Listening on port 45883
+1606459343073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606459376370	Marionette	INFO	Stopped listening on port 45883
+1606476343186	geckodriver	INFO	Listening on 127.0.0.1:45015
+1606476344191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOxIUWd"
+
+(firefox:1764): Gtk-WARNING **: 16:55:46.124: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:1764): Gtk-WARNING **: 16:55:46.124: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:1764): Gtk-WARNING **: 16:55:48.779: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:1982): Gtk-WARNING **: 16:55:52.972: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1982): Gtk-WARNING **: 16:55:52.974: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2024): Gtk-WARNING **: 16:55:54.118: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2024): Gtk-WARNING **: 16:55:54.119: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2119): Gtk-WARNING **: 16:55:59.285: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2119): Gtk-WARNING **: 16:55:59.286: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606476360991	Marionette	INFO	Listening on port 37433
+1606476361275	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606476559592	geckodriver	INFO	Listening on 127.0.0.1:40717
+1606476559604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez9w5rK"
+
+(firefox:2296): Gtk-WARNING **: 16:59:19.904: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2296): Gtk-WARNING **: 16:59:19.904: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2296): Gtk-WARNING **: 16:59:20.835: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2541): Gtk-WARNING **: 16:59:22.313: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2541): Gtk-WARNING **: 16:59:22.314: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2559): Gtk-WARNING **: 16:59:22.730: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2559): Gtk-WARNING **: 16:59:22.731: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:2642): Gtk-WARNING **: 16:59:25.129: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2642): Gtk-WARNING **: 16:59:25.130: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606476566651	Marionette	INFO	Listening on port 38879
+1606476566723	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1606476643750	geckodriver	INFO	Listening on 127.0.0.1:45075
+1606476643765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehn6dOD"
+
+(firefox:2784): Gtk-WARNING **: 17:00:44.328: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:2784): Gtk-WARNING **: 17:00:44.328: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:2784): Gtk-WARNING **: 17:00:46.120: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:2989): Gtk-WARNING **: 17:00:49.531: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:2989): Gtk-WARNING **: 17:00:49.532: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3014): Gtk-WARNING **: 17:00:50.411: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3014): Gtk-WARNING **: 17:00:50.412: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:3087): Gtk-WARNING **: 17:00:55.034: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:3087): Gtk-WARNING **: 17:00:55.036: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606476657890	Marionette	INFO	Listening on port 36241
+1606476658445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606476658525	Marionette	INFO	Stopped listening on port 38879
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606476694360	Marionette	INFO	Stopped listening on port 36241
+1606477229933	geckodriver	INFO	Listening on 127.0.0.1:45041
+1606477229944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZUmLFO"
+
+(firefox:4474): Gtk-WARNING **: 17:10:30.277: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:4474): Gtk-WARNING **: 17:10:30.277: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:4474): Gtk-WARNING **: 17:10:31.186: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:4732): Gtk-WARNING **: 17:10:32.685: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4732): Gtk-WARNING **: 17:10:32.686: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4753): Gtk-WARNING **: 17:10:33.174: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4753): Gtk-WARNING **: 17:10:33.175: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:4823): Gtk-WARNING **: 17:10:35.469: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:4823): Gtk-WARNING **: 17:10:35.470: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606477236635	Marionette	INFO	Listening on port 37147
+1606477236795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1606477261088	Marionette	INFO	Stopped listening on port 37147
+1606477329931	geckodriver	INFO	Listening on 127.0.0.1:42605
+1606477329943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2ylnl5"
+
+(firefox:5086): Gtk-WARNING **: 17:12:10.216: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:5086): Gtk-WARNING **: 17:12:10.217: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:5086): Gtk-WARNING **: 17:12:11.152: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:5333): Gtk-WARNING **: 17:12:12.603: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5333): Gtk-WARNING **: 17:12:12.604: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5353): Gtk-WARNING **: 17:12:12.994: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5353): Gtk-WARNING **: 17:12:12.995: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:5436): Gtk-WARNING **: 17:12:15.211: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:5436): Gtk-WARNING **: 17:12:15.212: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606477336243	Marionette	INFO	Listening on port 34815
+1606477336403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1606477357203	Marionette	INFO	Stopped listening on port 34815
+1606572312144	geckodriver	INFO	Listening on 127.0.0.1:34335
+1606572313145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesKO4CB"
+
+(firefox:1641): Gtk-WARNING **: 19:35:13.638: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(firefox:1641): Gtk-WARNING **: 19:35:13.638: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(firefox:1641): Gtk-WARNING **: 19:35:14.437: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+
+(/usr/lib64/firefox/firefox:1896): Gtk-WARNING **: 19:35:15.657: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1896): Gtk-WARNING **: 19:35:15.657: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1922): Gtk-WARNING **: 19:35:15.979: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1922): Gtk-WARNING **: 19:35:15.979: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib64/firefox/firefox:1997): Gtk-WARNING **: 19:35:18.056: Theme parsing error: gtk.css:12227:26: 'text-shadow' is not a valid color name
+
+(/usr/lib64/firefox/firefox:1997): Gtk-WARNING **: 19:35:18.056: Theme parsing error: gtk.css:12232:26: 'text-shadow' is not a valid color name
+1606572319211	Marionette	INFO	Listening on port 34723
+1606572319352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1606572369321	Marionette	INFO	Stopped listening on port 34723
